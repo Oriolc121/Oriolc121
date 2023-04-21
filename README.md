@@ -1,7 +1,7 @@
 ## Hola a todos, soy Oriolc121 ✋
 
 
-![evenogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=evenogueira&show_icons=true&theme=dracula)
+![evenogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oriolc121&show_icons=true&theme=dracula)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oriolc121&theme=dracula)](https://github.com/evenogueira/github-readme-stats)
