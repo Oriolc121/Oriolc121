@@ -1,4 +1,4 @@
-## Hola a todos, soy Oriolc121 ✋
+## Oriolc121 ✋
 
 
 ![Oriolc121 GitHub stats](https://github-readme-stats.vercel.app/api?username=Oriolc121&show_icons=true&theme=dracula)
