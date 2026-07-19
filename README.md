@@ -12,7 +12,7 @@
 
 ### About
 
-Building products and ventures, currently focused on **futurspolicies.com**. Interested in technology, automation, and creating tools that solve real problems.
+I developed **futurspolicies.com** to help people and build community. Interested in technology, automation, and creating tools that solve real problems.
 
 ---
 
