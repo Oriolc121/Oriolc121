@@ -34,6 +34,6 @@ I developed **futurspolicies.com** to help people and build community. Intereste
 ### Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oriolc121&show_icons=true&theme=dracula&hide_border=true" alt="Oriolc121 GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oriolc121&theme=dracula&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Oriolc121&show_icons=true&theme=dracula&hide_border=true" alt="Oriolc121 GitHub Stats"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Oriolc121&theme=dracula&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
