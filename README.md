@@ -28,12 +28,3 @@ I developed **futurspolicies.com** to help people and build community. Intereste
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
 </p>
-
----
-
-### Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Oriolc121&show_icons=true&theme=dracula&hide_border=true" alt="Oriolc121 GitHub Stats"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Oriolc121&theme=dracula&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
